@@ -1,0 +1,21 @@
+/* color scheme
+    white: #f
+    black: #100e0f
+    red: #ec5051
+    blue: #95cada
+    grey/blue: #495458
+
+*/
+nav{
+    background-color: #e76f51;
+}
+
+
+.right{
+    text-align: right;
+    display: block;
+}
+.left{
+    display: block;
+    text-align: left;
+}
